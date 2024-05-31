@@ -72,6 +72,9 @@ main {
 .meme--image {
     max-width: 100%;
     border-radius: 3px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .color-picker select {
